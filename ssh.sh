@@ -4,7 +4,7 @@
 USER="root"
 IP="10.5.51.20"
 #========================
-   echo "Co the thay doi User va IP trong file"
+   echo "You can change User and IP in file"
 
 gen_key()
 {
